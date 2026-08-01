@@ -1,0 +1,29 @@
+{
+  "name": "Quiz Mondial — Culture Générale",
+  "short_name": "Quiz Mondial",
+  "description": "Quiz de culture générale mondiale : histoire, géographie, politique, technologie, logistique. 50 niveaux, 25 questions chacun.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#00d4ff",
+  "lang": "fr",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "education"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
